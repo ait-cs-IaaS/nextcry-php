@@ -1,0 +1,5 @@
+Package: nextcry-php
+Version: 1.0
+Architecture: amd64
+Maintainer: Benjamin Akhras <benjamin.akhras@ait.ac.at>
+Description: Containins php, php-fpm vulnerable to CVE-2019-11043

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+install -d -m 0755 -g www-data /var/log/php
+
